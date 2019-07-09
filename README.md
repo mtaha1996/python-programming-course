@@ -11,3 +11,7 @@ if you have access to this project try this:
 `$ cd python-programming-course`
 
 Here we are! Start coding now!
+
+fwejfwewbe
+we
+fwnfkwen
